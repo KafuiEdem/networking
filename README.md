@@ -9,3 +9,5 @@ This is a complete update of my networking labs.
 
 # OSPF PER NEIGHBOR COST
 ![ospf per neighbor cost](ospf_per_neighbor_cost/ospf_per_neighbor_cost.png)
+
+![ospf totally stub](ospf_totally_stub/ospf_totally_stub.png)
