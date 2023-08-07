@@ -11,4 +11,4 @@ This is a complete update of my networking labs.
 ![ospf per neighbor cost](ospf_per_neighbor_cost/ospf_per_neighbor_cost.png)
 
 ![ospf totally stub](ospf_totally_stub/ospf_totally_stub.png)
-![ospf lsa typ3 summar](../ospf_lsa_typ3_summarization/ospf_lsa_type3_summarization.png)
+![ospf lsa typ3 summar](ospf_lsa_typ3_summarization/ospf_lsa_type3_summarization.png)
