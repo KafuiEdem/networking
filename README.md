@@ -19,3 +19,6 @@ This is a complete update of my networking labs.
 
 # OSPF LSA TYPE 5 SUMMARIZATION
 ![ospf lsa typ3 summar](ospf_lsa_type5_summarization/ospf_lsa_type5_summarization.png)
+
+# GRE WITH OSPF
+![ospf lsa typ3 summar](gre_with_ospf/gre_with_ospf.png)
